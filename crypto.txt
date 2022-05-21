@@ -1,0 +1,6 @@
+tether
+xrp
+litecoin
+usd
+cardano
+
