@@ -1,0 +1,6 @@
+tether
+bitcoin
+xrp
+litecoin
+shib
+
